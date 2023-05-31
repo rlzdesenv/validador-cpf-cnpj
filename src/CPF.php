@@ -1,6 +1,6 @@
 <?php
 
-namespace Bissolli\ValidadorCpfCnpj;
+namespace RLZ\ValidadorCpfCnpj;
 
 class CPF extends DocumentoAbstract
 {
