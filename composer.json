@@ -1,5 +1,5 @@
 {
-    "name": "bissolli/validador-cpf-cnpj",
+    "name": "rlzdesenv/validador-cpf-cnpj",
     "description": "Classe em PHP para validação de CPF e CNPJ.",
     "keywords": [
         "cnpj",
@@ -11,11 +11,11 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/bissolli/validador-cpf-cnpj",
+    "homepage": "https://github.com/rlzdesenv/validador-cpf-cnpj",
     "authors": [
         {
-            "name": "Gustavo Bissolli",
-            "email": "gustavo.bissolli@gmail.com"
+            "name": "Elvis Reis",
+            "email": "elvisdosreis@gmail.com"
         }
     ],
     "require": {
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Bissolli\\ValidadorCpfCnpj\\": "src/"
+            "RLZ\\ValidadorCpfCnpj\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bissolli\\ValidadorCpfCnpj\\Test\\": "tests/"
+            "RLZ\\ValidadorCpfCnpj\\Test\\": "tests/"
         }
     },
     "config": {
